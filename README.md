@@ -26,5 +26,5 @@ Put a analog signal in ADC pin and you should see the same signal in the DAC pin
 ## Waveform Generator Set to generate 1KHz 1V p-p waveform
 ![alt text](https://github.com/adithyayuri/SAML21_ADC_DAC_DMA/blob/main/Images/wave_gen.png "L21 ADC IN")
 
-## Oscilloscope connected to DAC Channel 0 "PAO2" pin
+## Oscilloscope connected to DAC Channel 0 "PA02" pin
 ![alt text](https://github.com/adithyayuri/SAML21_ADC_DAC_DMA/blob/main/Images/scope.png "L21 DAC OUT")
