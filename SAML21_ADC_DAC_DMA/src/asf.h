@@ -52,9 +52,19 @@
  * running the ASF driver selector tool. Any changes will be discarded.
  */
 
+// From module: ADC - Analog-to-Digital Converter (Polled APIs)
+#include <adc.h>
+
 // From module: Common SAM0 compiler driver
 #include <compiler.h>
 #include <status_codes.h>
+
+// From module: DAC - Digital-to-Analog Converter (Polled APIs)
+#include <dac.h>
+
+// From module: DMAC - Direct Memory Access Controller
+#include <dma.h>
+#include <dma_crc.h>
 
 // From module: Generic board support
 #include <board.h>
